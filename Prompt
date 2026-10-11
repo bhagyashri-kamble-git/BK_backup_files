@@ -1,0 +1,4 @@
+need JWT token to implement , we have microservices with spring boot and font have api gateway. in common utils module we read f5 header .and useer details . 
+now need how to implement JWT token . explain from zero . not sure  why JWT needed even after having f5.  
+so token to check where after f5 or how , each new request comes  we have f5 check and get user details and check permission for that user , after 4 hour  f5 expire.
+if user on application and visiting multiple pages then how to handle JWT ?
